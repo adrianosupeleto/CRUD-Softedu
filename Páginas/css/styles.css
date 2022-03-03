@@ -1,0 +1,195 @@
+body
+    {
+        font-family: sans-serif;
+    }  
+
+header
+    {
+        background-color: #4974C4;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px;
+    }
+
+header div
+    {
+        width: 100%;
+    }
+
+nav
+    {
+        background-color: #eeeeee;
+        color: #aa2222;
+        text-align: center;
+        padding: 10px;
+        margin-top: 4px;
+        margin-bottom: 4px;
+    }
+
+nav a
+    {
+        color: #4974C4;
+        font-size: 1.5em;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 10px;
+    } 
+
+nav a:hover
+    {
+        background-color: #4974C4;
+        color: #ffffff;
+        padding: 10px;
+    }
+
+fieldset p
+    {
+        display: block;
+        text-align: center;
+        padding: 10px;
+        width: 100%;
+    }
+
+section
+    {
+        background-color: #eeeeee;
+        font-weight: bold;
+        color: #000000;
+        text-align: center;
+        padding: 30px;
+    }
+
+section article
+    {
+        background-color: #ccd3dd;
+        font-weight: bold;
+        color: #000000;
+        display: flex;
+        text-align: center;
+        width: 100%;
+        padding: 10px;
+    }
+
+section article table
+
+    {
+        background-color: #ccd3dd;
+        font-weight: normal;
+        color: #000000;
+        text-align: center;
+        width: 100%;
+        border-collapse: collapse;
+
+    }
+section article table thead
+    {
+        background-color: #ccd3dd;
+        font-weight: bold;
+        color: #000000;
+        text-align: center;
+        width: 100%;
+    }
+
+footer
+    {   
+        font-size: 0.9em;
+        text-align: center;
+        font-weight: bold;
+        clear: both;
+        padding-top: 10px;
+        width: 100%;
+    }
+    
+.botao
+    {
+        background-color: #ffffff;
+        color: #4974C4;
+        font-weight: bold;
+        padding: 20px;
+        text-decoration: none;
+    }
+
+.botao:hover
+    {
+        background-color:#4974C4;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+.botao0
+    {
+        background-color: #ccd3dd;
+        color: #4974C4;
+        font-weight: bold;
+        padding: 1px;
+        text-decoration: none;
+    }
+
+.botao0:hover
+    {
+        background-color:#4974C4;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+
+.botao1
+    {
+        background-color: #ccd3dd;
+        color: #0d9b20;
+        font-weight: bold;
+        padding: 1px;
+        text-decoration: none;
+    }
+
+.botao1:hover
+    {
+        background-color:#0d9b20;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+.botao2
+    {
+        background-color: #ccd3dd;
+        color: #bb0101;
+        font-weight: bold;
+        padding: 1px;
+        text-decoration: none;
+    }
+
+.botao2:hover
+    {
+        background-color:#bb0101;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+
+.flex
+    {
+        display: flex;
+    }
+
+.formulario
+    {
+        background-color: #eeeeee; 
+        color: #000000;
+        padding: 10px;
+    }
+
+.formulario div
+    {
+        text-align: center;
+        padding: 10px;
+        margin-left: 2px;
+    }
+
+.mostra_foto{
+	width: 200px;
+}
+
+.lista_foto{
+	width: 150px;
+	border-radius: 10px;
+}
